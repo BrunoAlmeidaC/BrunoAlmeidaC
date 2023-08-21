@@ -4,7 +4,7 @@
   
   ## <b> Sobre mim 😎 </b>
  
-  <p>- 🔭 Estou atualmente estudando na Fatec/SP </p>
+  <p>- 🔭 Estou atualmente estudando ADS na Fatec/SP </p>
   <p>- 🎸 Hobbies: Jogar video games, Cinema e Programar  </p>
   <p>- 💻 Linguagem Favorita: Java </p>
   <p>- 📚 Atualmente estudando: Java - C++ </p>
