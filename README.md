@@ -17,9 +17,9 @@
 <br>
 
 <div align="center">
-  <a href="https://beacons.ai/BrunoAlmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoAlmeida&show_icons=true&include_all_commits=true&theme=outrun&hide_border=false" a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlmeida&layout=compact&theme=outrun&hide_border=false&hide_progress=true" />
+  <a href="https://beacons.ai/BrunoAlmeidaC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoAlmeidaC&show_icons=true&include_all_commits=true&theme=outrun&hide_border=false" a/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlmeidaC&layout=compact&theme=outrun&hide_border=false&hide_progress=true" />
 </div>   
     
   ## <b>Onde me encontrar 🗺</b>
